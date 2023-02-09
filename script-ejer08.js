@@ -6,7 +6,7 @@ let num = 0;
 let suma = 0;
 let contador = 1;
 let max =0;
-let min = Number.POSITIVE_INFINITY;
+let min = +Infinity;
 let promedio = 0;
 
 num = parseInt(prompt("Ingrese un numero "));   
